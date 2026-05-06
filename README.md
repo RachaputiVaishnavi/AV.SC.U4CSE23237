@@ -28,7 +28,6 @@ Required items:
 Supporting items used to run the services locally:
 
 - `package.json`
-- `scripts/`
 - `README.md`
 
 ## What each folder contains
